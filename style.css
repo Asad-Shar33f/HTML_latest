@@ -25,3 +25,13 @@ h2{
     padding: 25px;
     background-color: lightblue;
 }
+.vl {
+  border-left: 1px solid blue;
+  height: 700px;
+  position: fixed;
+  left: 60%;
+  margin-left: 60px;
+  top: 100px;
+  padding: 12px;
+  margin: 25px;
+}
