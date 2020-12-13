@@ -27,7 +27,8 @@ body {
     margin: 50px;
     padding: 20px;
     color: black;
-     }
+   
+   }
   .column {
     display: flex;
     flex-direction: column;
@@ -111,5 +112,6 @@ body {
     text-align: right;
     color: black;
     font-size: 30px;
+    border: 2px solid white;
 
 }
